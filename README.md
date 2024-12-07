@@ -96,15 +96,4 @@ It includes methods for marking a task as completed and formatting the task as a
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
-
-### Instructions for Screenshots:
-- Save your screenshots in a folder named `screenshots` within the project directory.
-- Replace the placeholders (`screenshot1.png`, `screenshot2.png`, etc.) with the actual filenames for the screenshots.
-- Upload the `screenshots` folder to your repository.
-
-Let me know if you need further adjustments!
