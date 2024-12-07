@@ -1,7 +1,3 @@
-Here is the `README.md` file content for your `TaskScheduler` program. This README includes an overview of the program, installation instructions, usage, and placeholders for screenshots of the executed program.
-
----
-
 # Task Scheduler
 
 ## Description
