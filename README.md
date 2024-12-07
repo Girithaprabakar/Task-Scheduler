@@ -11,19 +11,19 @@ The **Task Scheduler** is a simple Java application that allows users to manage 
 ## Screenshots
 Here are some screenshots of the Task Scheduler program in action:
 
-1. ![Screenshot 1](screenshots/screenshot1.png)  
+1. ![Screenshot 1](1.jpg)  
    *Main window showing task list with a few tasks.*
 
-2. ![Screenshot 2](screenshots/screenshot2.png)  
+2. ![Screenshot 2](2.jpg)  
    *Add Task dialog window for entering task details.*
 
-3. ![Screenshot 3](screenshots/screenshot3.png)  
+3. ![Screenshot 3](3.jpg)  
    *Task marked as completed in the task list.*
 
-4. ![Screenshot 4](screenshots/screenshot4.png)  
+4. ![Screenshot 4](4.jpg)  
    *Delete Task confirmation message.*
 
-5. ![Screenshot 5](screenshots/screenshot5.png)  
+5. ![Screenshot 5](5.jpg)  
    *Updated task list after deletion.*
 
 ## Installation
